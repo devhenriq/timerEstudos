@@ -1,0 +1,16 @@
+{
+  "name": "aluraelectron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "electron ."
+},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
